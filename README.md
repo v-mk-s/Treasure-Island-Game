@@ -12,8 +12,8 @@ Players in two teams perform various quests on a common map. Quests bring resour
 > `git clone https://github.com/v-mk-s/Treasure-Island-Game`
 2. Install dependencies
 3. Run CMake file
-5. Run Server
-6. Run Clients (2-5 devices)
-7. 
+4. Run Server
+5. Run Clients (2-5 devices)
+ 
 ## TODO list
 * Fix bugs related to spawning conditions
