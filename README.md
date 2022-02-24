@@ -1,4 +1,4 @@
-# Treasure-Island-Game
+# Treasure Island Game
 💻🎮 Treasure Island С++ Game
 
 **Description:**
